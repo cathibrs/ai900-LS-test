@@ -6,6 +6,7 @@ Para realizar os testes, pedi para que o chat gpt me gerasse 2 textos, um faland
 `Textos localizados na pasta inputs`
 
 O 1º texto era bem fácil de se interpretar, apenas para realizar teses, sem me surpreender ele identificou o texto como a maioria sendo positivo.
+
 ![image](https://github.com/user-attachments/assets/cacc345c-160d-4ea5-97e0-7bde6aec6b4a)
 
 
