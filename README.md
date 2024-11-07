@@ -15,4 +15,5 @@ A parte interessante vem quando ele identifica a frase abaixo como negativa, con
 
 
 O 2º texto obteve a resposta na qual eu esperava, um mix de tudo (ou o verdadeiro mais ou menos). Porém o que me impressionou foi ele considerar o mais ou menos como realmente as 3 possibilidades (positiva, neutra e negativa).
+
 ![image](https://github.com/user-attachments/assets/c4f16b57-bb50-4bbf-8c0d-ce57c381375c)
